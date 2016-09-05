@@ -1,3 +1,4 @@
 # gitit
 
-# Goerann is the coolest. Best at counter-strike in world
+Var vänliga att lägga till era namn i textfilen "mittnamn.txt"!
+Enligt följande formnamn - githubnick - slacknick
